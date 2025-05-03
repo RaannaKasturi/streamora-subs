@@ -1,5 +1,5 @@
 # wrangler.toml (wrangler v3.78.6^)
-name = "sub-scraping"
+name = "subs"
 main = "./.output/server/index.mjs"
 compatibility_date = "2025-02-14"
 toconfig = "./tsconfig.json"
